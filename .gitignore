@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/EmployeePortal/.vs/EmployeePortal
+/EmployeePortal/bin
+/EmployeePortal/obj/Debug
